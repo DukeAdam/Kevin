@@ -1,0 +1,1 @@
+A selection of images that show the final design of our robot. Also shows the layout of the challenge wherein the robot would have to navigate between balls and pick up a selected colour of ball and bring it to a goal area.
